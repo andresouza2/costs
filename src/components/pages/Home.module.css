@@ -49,7 +49,18 @@ img {
 
 /* screen tablet */
 @media screen and (max-width: 768px) {
-  
+  .home_container h1 {
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: .5em;
+  }
+
+  .home_container p {
+    font-size: .9em;
+    text-align: center;
+    margin-bottom: 1.5em;
+    color: #7b7b7b;
+  }
 }
 
 /* screen desktop */
